@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi! 👋. My name is Sergey. Welcome :v:
+About me
+
+🌱I’m currently learning [job4j](https://job4j.ru/):coffee:
+
+Lessons of:
+
+ - [Java Core 1](https://github.com/s-bespalov/job4j_elementary) 
+ - [Java Core 2](https://github.com/s-bespalov/job4j_tracker)
 
 <!--
 **s-bespalov/s-bespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
