@@ -8,6 +8,10 @@ Lessons of:
  - [Java Core 1](https://github.com/s-bespalov/job4j_elementary) 
  - [Java Core 2](https://github.com/s-bespalov/job4j_tracker)
 
+Core technologies
+
+![Static Badge](https://img.shields.io/badge/Java-%3E%3D8-orange)
+
 <!--
 **s-bespalov/s-bespalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
